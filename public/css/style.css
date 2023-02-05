@@ -1,0 +1,61 @@
+
+a {
+    text-decoration: none;
+}
+
+/*body {*/
+/*    font-family: 'Roboto', sans-serif;*/
+/*    background-color: #eee;*/
+/*}*/
+/*.main-row {*/
+/*    margin: 8%;*/
+/*    background-color: white;*/
+/*    box-shadow: 0 0 10px 10px rgb(0,0,0,.05);*/
+/*    border-radius: 0.5rem;*/
+/*}*/
+/*.blog-img > img {*/
+/*    width: 100%;*/
+/*    height: 100%;*/
+/*    transform: translateY(-30px);*/
+/*    object-fit: cover;*/
+/*    border-radius: 0.5rem;*/
+/*    box-shadow: 0 0 8px 3px rgba(0,0,0,.3);*/
+/*}*/
+
+/*.blog-date span {*/
+/*    color: #962c51;*/
+/*}*/
+/*.ul-cls {*/
+/*    justify-content: center;*/
+/*}*/
+/*.ul-cls li {*/
+/*    cursor: pointer;*/
+/*}*/
+/*.blog-title > h2 {*/
+/*    font-style: normal;*/
+/*    font-weight: 400;*/
+/*}*/
+/*.blog-desc > p {*/
+/*    font-style: normal;*/
+/*    line-height: 2;*/
+/*}*/
+
+section {
+    max-width: 600px;
+    padding: 20px;
+}
+
+input, label, small {
+    display: block;
+}
+
+.pfp-wrapper {
+    width: 160px;
+    height: 160px;
+    overflow: hidden;
+}
+.pfp {
+    height: inherit;
+    width: inherit;
+    object-fit: cover;
+}

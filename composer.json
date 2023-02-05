@@ -1,0 +1,14 @@
+{
+  "name": "mooncorn/memechamp",
+  "description": "MemeChamp: Compete for the best meme of the week.",
+  "autoload": {
+      "psr-4": {
+          "App\\": "app/"
+      }
+  },
+  "require": {
+    "symfony/routing": "^6.0.5",
+    "symfony/http-foundation": "^6.0.6",
+    "ext-pdo": "*"
+  }
+}
